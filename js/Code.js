@@ -2,6 +2,7 @@ const accessCode1 = "VARIÁVEL";
 const accessCode2 = "FUNÇÃO";
 const accessCode3 = "BANCO DE DADOS";
 
+
 function clues() {
     
     fill("white")
